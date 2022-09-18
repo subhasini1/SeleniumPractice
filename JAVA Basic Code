@@ -1,4 +1,9 @@
+import java.lang Package
 public static void main(String[] args)
 {
 System.Out.println("Hello World")
+}
+public static void main(String[] args)
+{
+System.Out.println("Hello Hyderabad")
 }
